@@ -40,18 +40,19 @@
   <table>
     <tr>
       <th>Project Name</th>
-      <th>Description</th>
       <th>Repository Link</th>
     </tr>
     <tr>
-      <td>Project 1</td>
-      <td>Description of Project 1</td>
-      <td><a href="https://github.com/ahmedlabib02/project1">Repository Link</a></td>
+      <td>Marvel Ultimate War</td>
+      <td><a href="https://github.com/ahmedlabib02/db-engine">Repository Link</a></td>
     </tr>
     <tr>
-      <td>Project 2</td>
-      <td>Description of Project 2</td>
-      <td><a href="https://github.com/ahmedlabib02/project2">Repository Link</a></td>
+      <td>Pro Wordle</td>
+      <td><a href="https://github.com/ahmedlabib02/pro-wordle">Repository Link</a></td>
+    </tr>
+<tr>
+      <td>Mine Sweeper</td>
+      <td><a href="https://github.com/ahmedlabib02/minesweeper">Repository Link</a></td>
     </tr>
   </table>
 
@@ -59,14 +60,31 @@
   <table>
     <tr>
       <th>Project Name</th>
-      <th>Description</th>
       <th>Repository Link</th>
     </tr>
     <tr>
-      <td>Project 1</td>
-      <td>Description of Project 1</td>
-      <td><a href="https://github.com/ahmedlabib02/project1">Repository Link</a></td>
+      <td>Tazkarty from wish.com</td>
+      <td><a href="https://github.com/ahmedlabib02/Databases-I-Project/blob/master/README.md">Repository Link</a></td>
     </tr>
     <tr>
-      <td>Project 2</td>
-      <td>Description of Project 2</td
+      <td>Travelling Website</td>
+    <td><a href="https://github.com/ahmedlabib02/Networks-project">Repository Link</a></td>
+    </tr>
+</table>
+
+<table>
+<tr>
+<th> Project Name </th>
+<th> Repository Link </th>
+</tr>
+<tr>
+<td> Db enginer </td>
+<td> <a href="https://github.com/ahmedlabib02/db-engine">Repository Link</a></td> 
+</tr>
+<tr>
+      <td>Lebo and co banking website</td>
+    <td><a href="https://github.com/ahmedlabib02/Lebo-and-Co">Repository Link</a></td>
+    </tr>
+</table>
+
+
