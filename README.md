@@ -71,20 +71,32 @@
     <td><a href="https://github.com/ahmedlabib02/Networks-project">Repository Link</a></td>
     </tr>
 </table>
-
+ <h3 align="left">Semester 6 Projects</h3>
 <table>
 <tr>
 <th> Project Name </th>
 <th> Repository Link </th>
 </tr>
 <tr>
-<td> Db enginer </td>
+<td> Db engine </td>
 <td> <a href="https://github.com/ahmedlabib02/db-engine">Repository Link</a></td> 
 </tr>
 <tr>
       <td>Lebo and co banking website</td>
     <td><a href="https://github.com/ahmedlabib02/Lebo-and-Co">Repository Link</a></td>
     </tr>
+</table>
+
+<h3 align="left">Problem Solving</h3>
+<table>
+    <tr>
+      <th>Project Name</th>
+      <th>Repository Link</th>
+    </tr>
+  <tr>
+<td> Leetcode problems  </td>
+<td> <a href="https://github.com/ahmedlabib02/Leetcode-problems">Repository Link</a></td> 
+</tr>
 </table>
 
 
