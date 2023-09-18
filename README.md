@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Ahmed Labib - GitHub Profile</title>
 </head>
+</html>
 <body>
   <h1 align="center">Hi 👋, I'm Ahmed Labib</h1>
   <h3 align="center">A passionate computer engineer</h3>
@@ -15,9 +16,9 @@
 
   <p align="left">Feel free to connect with me:</p>
   <p align="left">
-    <a href="https://instagram.com/ahmed_labib__" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmed_labib__" height="30" width="40" /></a>
-    <a href="https://codeforces.com/profile/ahmed_labib" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ahmed_labib" height="30" width="40" /></a>
-    <a href="https://www.leetcode.com/ahmed_labib" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ahmed_labib" height="30" width="40" /></a>
+    <a href="https://instagram.com/ahmed_labib__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmed_labib__" height="30" width="40" /></a>
+    <a href="https://codeforces.com/profile/ahmed_labib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ahmed_labib" height="30" width="40" /></a>
+    <a href="https://www.leetcode.com/ahmed_labib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ahmed_labib" height="30" width="40" /></a>
   </p>
 
   <h3 align="left">Languages and Tools:</h3>
@@ -30,7 +31,7 @@
     <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
     <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
     <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
@@ -50,7 +51,7 @@
       <td>Pro Wordle</td>
       <td><a href="https://github.com/ahmedlabib02/pro-wordle">Repository Link</a></td>
     </tr>
-    <tr>
+<tr>
       <td>Mine Sweeper</td>
       <td><a href="https://github.com/ahmedlabib02/minesweeper">Repository Link</a></td>
     </tr>
@@ -68,36 +69,33 @@
     </tr>
     <tr>
       <td>Travelling Website</td>
-      <td><a href="https://github.com/ahmedlabib02/Networks-project">Repository Link</a></td>
+    <td><a href="https://github.com/ahmedlabib02/Networks-project">Repository Link</a></td>
     </tr>
-  </table>
-
-  <h3 align="left">Semester 6 Projects</h3>
-  <table>
-    <tr>
-      <th>Project Name</th>
-      <th>Repository Link</th>
-    </tr>
-    <tr>
-      <td>Db engine</td>
-      <td><a href="https://github.com/ahmedlabib02/db-engine">Repository Link</a></td>
-    </tr>
-    <tr>
+</table>
+ <h3 align="left">Semester 6 Projects</h3>
+<table>
+<tr>
+<th> Project Name </th>
+<th> Repository Link </th>
+</tr>
+<tr>
+<td> Db engine </td>
+<td> <a href="https://github.com/ahmedlabib02/db-engine">Repository Link</a></td> 
+</tr>
+<tr>
       <td>Lebo and co banking website</td>
-      <td><a href="https://github.com/ahmedlabib02/Lebo-and-Co">Repository Link</a></td>
+    <td><a href="https://github.com/ahmedlabib02/Lebo-and-Co">Repository Link</a></td>
     </tr>
-  </table>
+</table>
 
-  <h3 align="left">Problem Solving</h3>
-  <table>
+<h3 align="left">Problem Solving</h3>
+<table>
     <tr>
       <th>Project Name</th>
       <th>Repository Link</th>
     </tr>
-    <tr>
-      <td>Leetcode problems</td>
-      <td><a href="https://github.com/ahmedlabib02/Leetcode-problems">Repository Link</a></td>
-    </tr>
-  </table>
-</body>
-</html>
+  <tr>
+<td> Leetcode problems  </td>
+<td> <a href="https://github.com/ahmedlabib02/Leetcode-problems">Repository Link</a></td> 
+</tr>
+</table>
