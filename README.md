@@ -80,6 +80,32 @@
       <th>Repository Link</th>
     </tr>
   <tr>
+
+
+
+    <h3 align="left">Semester 7 Projects</h3>
+<table>
+<tr>
+<th> Project Name </th>
+<th> Repository Link </th>
+</tr>
+<tr>
+<td> Virtual clinic </td>
+<td> <a href="[https://github.com/ahmedlabib02/db-engine](https://github.com/ahmedlabib02/Abo-Mota-Clinic)">Repository Link</a></td> 
+</tr>
+<tr>
+      <td>Virtual pharmacy</td>
+    <td><a href="[https://github.com/ahmedlabib02/Lebo-and-Co](https://github.com/ahmedlabib02/Abo-Mota-Pharmacy)">Repository Link</a></td>
+    </tr>
+</table>
+
+<h3 align="left">Problem Solving</h3>
+<table>
+    <tr>
+      <th>Project Name</th>
+      <th>Repository Link</th>
+    </tr>
+  <tr>
 <td> Leetcode problems  </td>
 <td> <a href="https://github.com/ahmedlabib02/Leetcode-problems">Repository Link</a></td> 
 </tr>
