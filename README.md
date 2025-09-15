@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **my problem solving skills**
 
-- 🌱 I’m currently learning **Machine Learning and Full-stack Web Development**
+- 🌱 I’m currently learning **Machine Learning and Software Engineering**
 
 - 📫 How to reach me **ahmedlabibamer@gmail.com**
 
